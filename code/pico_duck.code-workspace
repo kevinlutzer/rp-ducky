@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"circuitpython.board.version": null,
+		"python.linting.pylintEnabled": false,
+		"python.analysis.diagnosticSeverityOverrides": {
+			"reportMissingModuleSource": "none"
+		},
+		"python.analysis.extraPaths": [
+			"/Users/kevinlutzer/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.17-darwin-arm64/boards/0x239A/0x80F4",
+			"/Users/kevinlutzer/.vscode/extensions/joedevivo.vscode-circuitpython-0.1.17-darwin-arm64/stubs",
+			"/Users/kevinlutzer/Library/Application Support/Code/User/globalStorage/joedevivo.vscode-circuitpython/bundle/20220413/adafruit-circuitpython-bundle-py-20220413/lib"
+		],
+		"circuitpython.board.vid": "0x239A",
+		"circuitpython.board.pid": "0x80F4"
+	}
+}

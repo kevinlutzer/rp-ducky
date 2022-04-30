@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name "WS2812C")(type "KiCad")(uri "/Users/kevinlutzer/KiCAD/footprint.pretty/WS2812C.pretty")(options "")(descr ""))
+  (lib (name "H130B-12.000-20-3050")(type "KiCad")(uri "${KIPRJMOD}/H130B-12.000-20-3050.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/Users/kevinlutzer/KiCAD/footprint.pretty/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/kevinlutzer/Downloads/ul_R-667799/KiCAD/2022-04-30_19-21-11/footprints.pretty")(options "")(descr ""))
 )

@@ -1354,7 +1354,6 @@
     )
   )
 
-
   (junction (at 62.23 160.02) (diameter 0) (color 0 0 0 0)
     (uuid 07828920-f8a1-40bd-8717-5f1e6798fb28)
   )
@@ -2471,7 +2470,7 @@
     (property "Value" "R-667799" (id 1) (at 110.49 177.8 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (id 2) (at 110.49 179.324 0)
+    (property "Footprint" "R-WHATEVER:R-667799" (id 2) (at 110.49 179.324 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 99.06 182.88 0)
@@ -2900,7 +2899,7 @@
   (symbol (lib_id "Device:C") (at 31.75 166.37 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 64d338e2-810f-40dd-b6e7-61458eef9140)
-    (property "Reference" "C2" (id 0) (at 26.67 165.1 0)
+    (property "Reference" "C14" (id 0) (at 26.67 165.1 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1uF" (id 1) (at 26.67 167.64 0)
@@ -3199,7 +3198,7 @@
   (symbol (lib_id "Device:C") (at 80.01 143.51 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b5f66f1a-65bc-454c-a7b0-ea71256c3265)
-    (property "Reference" "C14" (id 0) (at 74.93 142.24 0)
+    (property "Reference" "C2" (id 0) (at 74.93 142.24 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1uF" (id 1) (at 74.93 144.78 0)
@@ -3563,7 +3562,7 @@
     (path "/8a1748bd-f0bb-4572-a1dd-52c0f6327c17"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
-    (path "/64d338e2-810f-40dd-b6e7-61458eef9140"
+    (path "/b5f66f1a-65bc-454c-a7b0-ea71256c3265"
       (reference "C2") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/ffe743db-176e-4144-babe-66f1ed3050a1"
@@ -3599,7 +3598,7 @@
     (path "/eb271133-ae74-4d67-a3e1-e36afcfecb8c"
       (reference "C13") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
-    (path "/b5f66f1a-65bc-454c-a7b0-ea71256c3265"
+    (path "/64d338e2-810f-40dd-b6e7-61458eef9140"
       (reference "C14") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/900daed3-7453-4123-9fbe-1b6f8aaf4305"

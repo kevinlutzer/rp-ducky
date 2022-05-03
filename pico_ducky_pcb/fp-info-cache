@@ -1,4 +1,4 @@
-20940645202886704
+20942300652805914
 8-UFDFN
 W25Q80DVUXIE TR
 
@@ -56951,6 +56951,13 @@ LED ROHM SMLVN6
 0
 6
 6
+LED_SMD
+LED_SK6805_EC_1.5x1.5mm_P0.65mm
+https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf
+LED RGB NeoPixel Nano
+0
+8
+4
 LED_SMD
 LED_SK6805_PLCC4_2.4x2.7mm_P1.3mm
 https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf

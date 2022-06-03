@@ -2533,7 +2533,7 @@
   (symbol (lib_id "MIC5504:MIC5504-3.3YMT") (at 35.56 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3688ae9f-4d41-4c7d-bd3d-8b45a16022b7)
-    (property "Reference" "U?" (id 0) (at 35.56 19.05 0))
+    (property "Reference" "U1" (id 0) (at 35.56 19.05 0))
     (property "Value" "MIC5504-3.3YMT" (id 1) (at 35.56 21.59 0))
     (property "Footprint" "Package_DFN_QFN:UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm" (id 2) (at 35.56 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3558,14 +3558,14 @@
     (path "/91001a56-4e26-4f51-8f62-383c574cc68b"
       (reference "SW2") (unit 1) (value "R-667799") (footprint "R-WHATEVER:R-667799")
     )
+    (path "/3688ae9f-4d41-4c7d-bd3d-8b45a16022b7"
+      (reference "U1") (unit 1) (value "MIC5504-3.3YMT") (footprint "Package_DFN_QFN:UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm")
+    )
     (path "/5c0dfb3e-63f6-4ea6-b3ca-734edf20d662"
       (reference "U2") (unit 1) (value "W25Q32JVZP") (footprint "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm")
     )
     (path "/3a257eca-60b4-402a-98e0-95c5829faabc"
       (reference "U3") (unit 1) (value "RP2040") (footprint "RP2040_minimal:RP2040-QFN-56")
-    )
-    (path "/3688ae9f-4d41-4c7d-bd3d-8b45a16022b7"
-      (reference "U?") (unit 1) (value "MIC5504-3.3YMT") (footprint "Package_DFN_QFN:UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm")
     )
     (path "/3d1c97c4-0ea6-49b5-8e16-2de5448ae48f"
       (reference "Y1") (unit 1) (value "Crystal_GND24") (footprint "Crystal:Crystal_SMD_2520-4Pin_2.5x2.0mm")

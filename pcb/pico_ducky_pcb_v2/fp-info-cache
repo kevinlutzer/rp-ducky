@@ -1,4 +1,4 @@
-20240514772952594
+20242123984494094
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52954,13 +52954,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-H130B-12.000-20-3050
-H130B
-
-
-0
-4
-4
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -85784,3 +85777,17 @@ varistor SIOV
 0
 2
 2
+pico-ducky-pcb-v2
+R-667799
+
+
+0
+5
+5
+pico-ducky-pcb-v2
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57

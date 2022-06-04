@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/Users/kevinlutzer/Projects/pico_duck/pico_ducky_pcb/pico_ducky_pcb.kicad_sch</source>
-    <date>Monday, May 16, 2022 at 07:24:41 pm</date>
-    <tool>Eeschema (6.0.5-0)</tool>
+    <date>Monday, May 02, 2022 at 09:12:38 am</date>
+    <tool>Eeschema (6.0.4-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -40,11 +40,11 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b5f66f1a-65bc-454c-a7b0-ea71256c3265</tstamps>
+      <tstamps>64d338e2-810f-40dd-b6e7-61458eef9140</tstamps>
     </comp>
     <comp ref="C3">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -53,21 +53,12 @@
     </comp>
     <comp ref="C4">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2a511aed-1dc0-49f6-a6e8-072f83d9c64d</tstamps>
-    </comp>
-    <comp ref="C5">
-      <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>479e2ec2-9712-4822-9c99-fe7c38372dd6</tstamps>
     </comp>
     <comp ref="C6">
       <value>1uF</value>
@@ -80,7 +71,7 @@
     </comp>
     <comp ref="C7">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -89,7 +80,7 @@
     </comp>
     <comp ref="C8">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -98,7 +89,7 @@
     </comp>
     <comp ref="C9">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -107,7 +98,7 @@
     </comp>
     <comp ref="C10">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -116,7 +107,7 @@
     </comp>
     <comp ref="C11">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -134,7 +125,7 @@
     </comp>
     <comp ref="C13">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -148,11 +139,11 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>64d338e2-810f-40dd-b6e7-61458eef9140</tstamps>
+      <tstamps>b5f66f1a-65bc-454c-a7b0-ea71256c3265</tstamps>
     </comp>
     <comp ref="C15">
       <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -169,14 +160,14 @@
       <tstamps>2453e15c-afa0-40d4-988f-caa704d0e874</tstamps>
     </comp>
     <comp ref="D1">
-      <value>SK6812</value>
-      <footprint>LED_SMD:LED_SK6812_EC15_1.5x1.5mm</footprint>
-      <datasheet>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</datasheet>
-      <libsource lib="LED" part="SK6812" description="RGB LED with integrated controller"/>
+      <value>WS2812C</value>
+      <footprint>WS2812C:WS2812C-2020</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812C" description="RGB LED with integrated controller"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4b49b0a7-6681-4dfc-8fd4-9c0841f4d7e3</tstamps>
+      <tstamps>b2e990b4-e245-4552-82d1-48cc2e87ca47</tstamps>
     </comp>
     <comp ref="D2">
       <value>NSR0320</value>
@@ -201,15 +192,14 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f4221855-6e91-4693-826c-bfa7fd4d2334</tstamps>
     </comp>
-    <comp ref="J3">
-      <value>Conn_ARM_JTAG_SWD_10</value>
-      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical</footprint>
-      <datasheet>http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</datasheet>
-      <libsource lib="Connector" part="Conn_ARM_JTAG_SWD_10" description="Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface"/>
+    <comp ref="J2">
+      <value>Conn_01x03_Female</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x03_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Female" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c9cb9c6c-6b12-4cd5-9021-7e17c6632c17</tstamps>
+      <tstamps>ec04fa47-027a-4b7b-b069-efb5e36e176f</tstamps>
     </comp>
     <comp ref="R2">
       <value>10k</value>
@@ -249,7 +239,7 @@
     </comp>
     <comp ref="R6">
       <value>27.4</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -258,7 +248,7 @@
     </comp>
     <comp ref="R7">
       <value>27.4</value>
-      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="pico_ducky_pcb.kicad_sch"/>
@@ -344,28 +334,21 @@
         <pin num="G" name="G" type="unspecified"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Conn_ARM_JTAG_SWD_10">
-      <description>Cortex Debug Connector, standard ARM Cortex-M SWD and JTAG interface</description>
-      <docs>http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</docs>
+    <libpart lib="Connector" part="Conn_01x03_Female">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
       <footprints>
-        <fp>PinHeader?2x05?P1.27mm*</fp>
+        <fp>Connector*:*_1x??_*</fp>
       </footprints>
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">Conn_ARM_JTAG_SWD_10</field>
-        <field name="Datasheet">http://infocenter.arm.com/help/topic/com.arm.doc.ddi0314h/DDI0314H_coresight_components_trm.pdf</field>
+        <field name="Value">Conn_01x03_Female</field>
+        <field name="Datasheet">~</field>
       </fields>
       <pins>
-        <pin num="1" name="VTref" type="power_in"/>
-        <pin num="2" name="SWDIO/TMS" type="bidirectional"/>
-        <pin num="3" name="GND" type="power_in"/>
-        <pin num="4" name="SWDCLK/TCK" type="output"/>
-        <pin num="5" name="GND" type="passive"/>
-        <pin num="6" name="SWO/TDO" type="input"/>
-        <pin num="7" name="KEY" type="no_connect"/>
-        <pin num="8" name="NC/TDI" type="output"/>
-        <pin num="9" name="GNDDetect" type="passive"/>
-        <pin num="10" name="~{RESET}" type="open_collector"/>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector" part="USB_A">
@@ -457,23 +440,23 @@
         <pin num="2" name="A" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="LED" part="SK6812">
+    <libpart lib="LED" part="WS2812C">
       <description>RGB LED with integrated controller</description>
-      <docs>https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</docs>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
       <footprints>
-        <fp>LED*SK6812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
       </footprints>
       <fields>
         <field name="Reference">D</field>
-        <field name="Value">SK6812</field>
-        <field name="Footprint">LED_SMD:LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm</field>
-        <field name="Datasheet">https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf</field>
+        <field name="Value">WS2812C</field>
+        <field name="Footprint">WS2812C:WS2812C-2020</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
       </fields>
       <pins>
-        <pin num="1" name="VSS" type="power_in"/>
-        <pin num="2" name="DIN" type="input"/>
-        <pin num="3" name="VDD" type="power_in"/>
-        <pin num="4" name="DOUT" type="output"/>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
       </pins>
     </libpart>
     <libpart lib="MCU_RaspberryPi_RP2040" part="RP2040">
@@ -588,6 +571,9 @@
     </libpart>
   </libparts>
   <libraries>
+    <library logical="2022-04-30_19-21-11">
+      <uri>/Users/kevinlutzer/Downloads/ul_R-667799/KiCAD/2022-04-30_19-21-11/2022-04-30_19-21-11.lib</uri>
+    </library>
     <library logical="Connector">
       <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
     </library>
@@ -613,7 +599,7 @@
   <nets>
     <net code="1" name="+1V1">
       <node ref="C11" pin="2" pintype="passive"/>
-      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="U3" pin="23" pinfunction="DVDD" pintype="power_in"/>
       <node ref="U3" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
@@ -622,16 +608,14 @@
     <net code="2" name="+3V3">
       <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C13" pin="2" pintype="passive"/>
-      <node ref="C14" pin="2" pintype="passive"/>
       <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
-      <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="2" pintype="passive"/>
-      <node ref="D1" pin="3" pinfunction="VDD" pintype="power_in"/>
-      <node ref="J3" pin="1" pinfunction="VTref" pintype="power_in"/>
+      <node ref="D1" pin="4" pinfunction="VDD" pintype="power_in"/>
       <node ref="R2" pin="2" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="VOUT" pintype="power_out"/>
@@ -679,7 +663,6 @@
       <node ref="U3" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
     </net>
     <net code="10" name="/RESET">
-      <node ref="J3" pin="10" pinfunction="~{RESET}" pintype="open_collector"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="SW2" pin="B1" pinfunction="B1" pintype="unspecified"/>
       <node ref="SW2" pin="B2" pinfunction="B2" pintype="unspecified"/>
@@ -687,15 +670,15 @@
       <node ref="U3" pin="26" pinfunction="RUN" pintype="input"/>
     </net>
     <net code="11" name="/RGB_DI">
-      <node ref="D1" pin="2" pinfunction="DIN" pintype="input"/>
+      <node ref="D1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="U3" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
     </net>
     <net code="12" name="/SWCLK">
-      <node ref="J3" pin="4" pinfunction="SWDCLK/TCK" pintype="output"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="U3" pin="24" pinfunction="SWCLK" pintype="output"/>
     </net>
     <net code="13" name="/SWD">
-      <node ref="J3" pin="2" pinfunction="SWDIO/TMS" pintype="bidirectional"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="U3" pin="25" pinfunction="SWD" pintype="bidirectional"/>
     </net>
     <net code="14" name="/USBR_+">
@@ -742,17 +725,14 @@
       <node ref="C2" pin="1" pintype="passive"/>
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
-      <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
       <node ref="C9" pin="1" pintype="passive"/>
-      <node ref="D1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D1" pin="2" pinfunction="VSS" pintype="power_in"/>
       <node ref="J1" pin="4" pinfunction="GND" pintype="power_in"/>
       <node ref="J1" pin="5" pinfunction="Shield" pintype="passive"/>
-      <node ref="J3" pin="3" pinfunction="GND" pintype="power_in"/>
-      <node ref="J3" pin="5" pinfunction="GND" pintype="passive"/>
-      <node ref="J3" pin="9" pinfunction="GNDDetect" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="SW1" pin="A" pinfunction="A" pintype="unspecified"/>
       <node ref="SW1" pin="G" pinfunction="G" pintype="unspecified"/>
       <node ref="SW2" pin="A" pinfunction="A" pintype="unspecified"/>
@@ -774,103 +754,94 @@
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="unconnected-(D1-Pad4)">
-      <node ref="D1" pin="4" pinfunction="DOUT" pintype="output+no_connect"/>
+    <net code="24" name="unconnected-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="DOUT" pintype="output+no_connect"/>
     </net>
-    <net code="25" name="unconnected-(J3-Pad6)">
-      <node ref="J3" pin="6" pinfunction="SWO/TDO" pintype="input+no_connect"/>
-    </net>
-    <net code="26" name="unconnected-(J3-Pad7)">
-      <node ref="J3" pin="7" pinfunction="KEY" pintype="no_connect"/>
-    </net>
-    <net code="27" name="unconnected-(J3-Pad8)">
-      <node ref="J3" pin="8" pinfunction="NC/TDI" pintype="output+no_connect"/>
-    </net>
-    <net code="28" name="unconnected-(U1-Pad4)">
+    <net code="25" name="unconnected-(U1-Pad4)">
       <node ref="U1" pin="4" pinfunction="NC" pintype="no_connect"/>
     </net>
-    <net code="29" name="unconnected-(U3-Pad2)">
+    <net code="26" name="unconnected-(U3-Pad2)">
       <node ref="U3" pin="2" pinfunction="GPIO0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="30" name="unconnected-(U3-Pad3)">
+    <net code="27" name="unconnected-(U3-Pad3)">
       <node ref="U3" pin="3" pinfunction="GPIO1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="31" name="unconnected-(U3-Pad4)">
+    <net code="28" name="unconnected-(U3-Pad4)">
       <node ref="U3" pin="4" pinfunction="GPIO2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="32" name="unconnected-(U3-Pad5)">
+    <net code="29" name="unconnected-(U3-Pad5)">
       <node ref="U3" pin="5" pinfunction="GPIO3" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="33" name="unconnected-(U3-Pad6)">
+    <net code="30" name="unconnected-(U3-Pad6)">
       <node ref="U3" pin="6" pinfunction="GPIO4" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="34" name="unconnected-(U3-Pad7)">
+    <net code="31" name="unconnected-(U3-Pad7)">
       <node ref="U3" pin="7" pinfunction="GPIO5" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="35" name="unconnected-(U3-Pad8)">
+    <net code="32" name="unconnected-(U3-Pad8)">
       <node ref="U3" pin="8" pinfunction="GPIO6" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="36" name="unconnected-(U3-Pad9)">
+    <net code="33" name="unconnected-(U3-Pad9)">
       <node ref="U3" pin="9" pinfunction="GPIO7" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="37" name="unconnected-(U3-Pad11)">
+    <net code="34" name="unconnected-(U3-Pad11)">
       <node ref="U3" pin="11" pinfunction="GPIO8" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="38" name="unconnected-(U3-Pad12)">
+    <net code="35" name="unconnected-(U3-Pad12)">
       <node ref="U3" pin="12" pinfunction="GPIO9" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="39" name="unconnected-(U3-Pad13)">
+    <net code="36" name="unconnected-(U3-Pad13)">
       <node ref="U3" pin="13" pinfunction="GPIO10" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="40" name="unconnected-(U3-Pad14)">
+    <net code="37" name="unconnected-(U3-Pad14)">
       <node ref="U3" pin="14" pinfunction="GPIO11" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="41" name="unconnected-(U3-Pad16)">
+    <net code="38" name="unconnected-(U3-Pad16)">
       <node ref="U3" pin="16" pinfunction="GPIO13" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="42" name="unconnected-(U3-Pad17)">
+    <net code="39" name="unconnected-(U3-Pad17)">
       <node ref="U3" pin="17" pinfunction="GPIO14" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="43" name="unconnected-(U3-Pad18)">
+    <net code="40" name="unconnected-(U3-Pad18)">
       <node ref="U3" pin="18" pinfunction="GPIO15" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="44" name="unconnected-(U3-Pad27)">
+    <net code="41" name="unconnected-(U3-Pad27)">
       <node ref="U3" pin="27" pinfunction="GPIO16" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="45" name="unconnected-(U3-Pad28)">
+    <net code="42" name="unconnected-(U3-Pad28)">
       <node ref="U3" pin="28" pinfunction="GPIO17" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="46" name="unconnected-(U3-Pad29)">
+    <net code="43" name="unconnected-(U3-Pad29)">
       <node ref="U3" pin="29" pinfunction="GPIO18" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="47" name="unconnected-(U3-Pad30)">
+    <net code="44" name="unconnected-(U3-Pad30)">
       <node ref="U3" pin="30" pinfunction="GPIO19" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="48" name="unconnected-(U3-Pad31)">
+    <net code="45" name="unconnected-(U3-Pad31)">
       <node ref="U3" pin="31" pinfunction="GPIO20" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="49" name="unconnected-(U3-Pad34)">
+    <net code="46" name="unconnected-(U3-Pad34)">
       <node ref="U3" pin="34" pinfunction="GPIO22" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="50" name="unconnected-(U3-Pad35)">
+    <net code="47" name="unconnected-(U3-Pad35)">
       <node ref="U3" pin="35" pinfunction="GPIO23" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="51" name="unconnected-(U3-Pad36)">
+    <net code="48" name="unconnected-(U3-Pad36)">
       <node ref="U3" pin="36" pinfunction="GPIO24" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="52" name="unconnected-(U3-Pad37)">
+    <net code="49" name="unconnected-(U3-Pad37)">
       <node ref="U3" pin="37" pinfunction="GPIO25" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="53" name="unconnected-(U3-Pad38)">
+    <net code="50" name="unconnected-(U3-Pad38)">
       <node ref="U3" pin="38" pinfunction="GPIO26_ADC0" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="54" name="unconnected-(U3-Pad39)">
+    <net code="51" name="unconnected-(U3-Pad39)">
       <node ref="U3" pin="39" pinfunction="GPIO27_ADC1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="55" name="unconnected-(U3-Pad40)">
+    <net code="52" name="unconnected-(U3-Pad40)">
       <node ref="U3" pin="40" pinfunction="GPIO28_ADC2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="56" name="unconnected-(U3-Pad41)">
+    <net code="53" name="unconnected-(U3-Pad41)">
       <node ref="U3" pin="41" pinfunction="GPIO29_ADC3" pintype="bidirectional+no_connect"/>
     </net>
   </nets>

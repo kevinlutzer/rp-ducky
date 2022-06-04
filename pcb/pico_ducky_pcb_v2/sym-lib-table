@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "/Users/kevinlutzer/Downloads/Minimal/RP2040_minimal/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
-  (lib (name "MIC5504")(type "KiCad")(uri "/Users/kevinlutzer/Documents/KiCad/6.0/symbols/MIC5504.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_RP2040.lib")(options "")(descr ""))
+  (lib (name "MIC5504")(type "KiCad")(uri "${KIPRJMOD}/MIC5504.kicad_sym")(options "")(descr ""))
 )

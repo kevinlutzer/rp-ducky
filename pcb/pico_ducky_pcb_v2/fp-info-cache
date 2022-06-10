@@ -1,4 +1,4 @@
-20242124107156786
+20243778961141794
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85791,3 +85791,10 @@ QFN DFN_QFN
 0
 70
 57
+pico-ducky-pcb-v2
+USB3_A_Plug_Wuerth_629004113921_Horizontal
+USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
+usb A plug horizontal
+0
+11
+10

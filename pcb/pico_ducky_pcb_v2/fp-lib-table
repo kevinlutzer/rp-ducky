@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name "digikey-footprints")(type "KiCad")(uri "/Users/kevinlutzer/KiCAD/footprint.pretty/digikey-footprints.pretty")(options "")(descr ""))
   (lib (name "pico-ducky-pcb-v2")(type "KiCad")(uri "${KIPRJMOD}/pico_ducky_pcb_v2.pretty")(options "")(descr ""))
 )

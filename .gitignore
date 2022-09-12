@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Kicad
+*_autosave-*
+
 # Distribution / packaging
 .Python
 build/

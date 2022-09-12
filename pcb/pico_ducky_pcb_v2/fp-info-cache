@@ -1,4 +1,4 @@
-20243778962256033
+20243850164752457
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56552,6 +56552,27 @@ solder jumper open
 0
 5
 3
+Kevin_Lutzer_Lbr
+R-667799
+
+
+0
+5
+3
+Kevin_Lutzer_Lbr
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Kevin_Lutzer_Lbr
+USB3_A_Plug_Wuerth_629004113921_Horizontal
+USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
+usb A plug horizontal
+0
+6
+5
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -85777,24 +85798,3 @@ varistor SIOV
 0
 2
 2
-pico-ducky-pcb-v2
-R-667799
-
-
-0
-5
-3
-pico-ducky-pcb-v2
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-pico-ducky-pcb-v2
-USB3_A_Plug_Wuerth_629004113921_Horizontal
-USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
-usb A plug horizontal
-0
-4
-4

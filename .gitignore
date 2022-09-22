@@ -9,6 +9,8 @@ __pycache__/
 # Kicad
 *_autosave-*
 *#auto_saved_files#*
+*rp_ducky-backups/
+
 
 # Distribution / packaging
 .Python

@@ -8,6 +8,7 @@ __pycache__/
 
 # Kicad
 *_autosave-*
+*#auto_saved_files#*
 
 # Distribution / packaging
 .Python

@@ -1,2 +1,2 @@
-# pico_duck
+# rp-ducky
 RP2040 Based Rubber Ducky

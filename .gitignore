@@ -11,7 +11,7 @@ __pycache__/
 *#auto_saved_files#*
 *rp_ducky-backups/
 *rp_ducky-backups*
-
+*.lck
 
 # Distribution / packaging
 .Python

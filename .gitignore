@@ -138,6 +138,7 @@ dmypy.json
 # 
 .vscode/
 .DS_Store
+*.code-workspace 
 
 # backups
 **pico_ducky_pcb-backups**

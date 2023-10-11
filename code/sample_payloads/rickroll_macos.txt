@@ -1,0 +1,8 @@
+DELAY 200
+GUI SPACE
+DELAY 10
+STRING  https://www.youtube.com/watch?v=zL19uMsnpSU&t=2s
+DELAY 10
+ENTER
+DELAY 10
+ENTER
